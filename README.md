@@ -43,8 +43,7 @@ Start a new deep learning project, just from this:
 ```bash
 DLCreator <tensorflow|pytorch|keras> <project-name>
 ```
-
-As `DLCreator pytorch test` as an example, The same directory will generate a `test` directory, the structure is as follows:
+Take `DLCreator pytorch test` as an example, The same directory will generate a `test` directory, the structure is as follows:
 ```
   test/
   │
